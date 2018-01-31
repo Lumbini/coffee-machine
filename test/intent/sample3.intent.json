@@ -1,7 +1,7 @@
 {
-  "utterance": "Hello world",
-  "intent_type": "HelloWorldIntent",
+  "utterance": "Start",
+  "intent_type": "MachineOnIntent",
   "intent": {
-    "HelloWorldKeyword": "hello world"
+    "MachineOnKeyword": "start"
   }
 }

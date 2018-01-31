@@ -1,7 +1,7 @@
 {
-  "utterance": "Thank you",
-  "intent_type": "ThankYouIntent",
+  "utterance": "On",
+  "intent_type": "MachineOnIntent",
   "intent": {
-    "ThankYouKeyword": "thank you"
+    "MachineOnKeyword": "on"
   }
 }

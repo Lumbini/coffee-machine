@@ -1,7 +1,7 @@
 {
-  "utterance": "How are you doing",
-  "intent_type": "HowAreYouIntent",
+  "utterance": "Turn off the Machine",
+  "intent_type": "MachineOffIntent",
   "intent": {
-    "HowAreYouKeyword": "how are you"
+    "MachineOffKeyword": "turn off the machine"
   }
 }

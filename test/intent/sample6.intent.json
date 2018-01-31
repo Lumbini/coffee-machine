@@ -1,7 +1,7 @@
 {
-  "utterance": "How has your day been",
-  "intent_type": "HowAreYouIntent",
+  "utterance": "Off",
+  "intent_type": "MachineOffIntent",
   "intent": {
-    "HowAreYouKeyword": "how has your day been"
+    "MachineOffKeyword": "off"
   }
 }
